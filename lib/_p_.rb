@@ -1,0 +1,1 @@
+require "tapp"; Object.send(:alias_method, :_p_, :tapp)
