@@ -6,11 +6,9 @@ Gem::Specification.new do |s|
   s.version     = "1.0.0"
   s.authors     = ["jugyo"]
   s.email       = ["jugyo.org@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/jugyo/_p_"
   s.summary     = %q{just an alias of tapp}
   s.description = %q{tapp is tap and p, _p_ is an alias of tapp.}
-
-  s.rubyforge_project = "p_"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
