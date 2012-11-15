@@ -1,1 +1,1 @@
-require "tapp"; Object.send(:alias_method, :_p_, :tapp)
+require "tapp"; Object.send(:alias_method, :_p_, :tapp); Object.send(:alias_method, :_p, :_p_)
